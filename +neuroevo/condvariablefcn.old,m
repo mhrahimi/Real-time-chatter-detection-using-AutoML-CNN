@@ -1,0 +1,10 @@
+function Xnew = condvariablefcn(X)
+Xnew = X;
+Xnew.numFiltPGp(Xnew.convNum <= 1) = NaN;
+
+Xnew.fc8(Xnew.nnNum <= 2) = NaN;
+Xnew.fc7(Xnew.nnNum <= 1) = NaN;
+% if Xnew ~= X
+%     'xxx'
+% end
+end

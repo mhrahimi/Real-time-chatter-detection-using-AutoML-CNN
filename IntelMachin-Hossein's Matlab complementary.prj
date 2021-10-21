@@ -1,0 +1,123 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="4063223395" file="C:\Users\mhoss\Dropbox\Project MASc\Main - Small\IntelMachin-Hossein's Matlab complementary.prj" location="C:\Users\mhoss\Dropbox\Project MASc\Main - Small" name="IntelMachin-Hossein's Matlab complementary" target="target.mlapps" target-name="Package App">
+    <param.appname>IntelMachin-Hossein's Matlab Complementary</param.appname>
+    <param.authnamewatermark>M.Hossein Rahimi</param.authnamewatermark>
+    <param.email>me@HRahimi.com</param.email>
+    <param.company>HRahimi.com</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>All of the files are copyrighted properties of M.Hossein Rahimi and should not be used or shared without the owner's concent.</param.summary>
+    <param.description>Hossein Rahimi's MASc work including the Complementary Machine Learning and Machining functions.
+This is not a final production version. 
+All of the files are copyrighted properties of M.Hossein Rahimi and should not be used or shared without the owner's concent.</param.description>
+    <param.screenshot />
+    <param.version>3.1</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>2b31871b-6288-435a-9105-587324147359</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.icon />
+      <param.icons />
+      <param.screenshot />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\intelMachine.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+GGen</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+labeller</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+machining</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+ml</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+tools</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\.gitignore</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@gcode</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\emtpyFun.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\IntelMachin.prj</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\intelMachine</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\intelMachine.mlapp</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\LICENSE</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\QuickTestUnit.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\resources</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\sequenceDatastore.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\simpleDS.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\simpleDS2.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\toBeDeleted.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\tool.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\mhoss\Dropbox\Project MASc" name="Main - Small" optional="false">C:\Users\mhoss\Dropbox\Project MASc\Main - Small</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2020b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

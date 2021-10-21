@@ -1,0 +1,158 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="593911327" file="C:\Users\mhoss\Dropbox\Project MASc\Main - Small\IntelMachine.prj" location="C:\Users\mhoss\Dropbox\Project MASc\Main - Small" name="IntelMachine" target="target.mlapps" target-name="Package App">
+    <param.appname>IntelMachine</param.appname>
+    <param.authnamewatermark>M.Hossein Rahimi</param.authnamewatermark>
+    <param.email>me@HRahimi.com</param.email>
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.version>3.2</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\mhoss\Desktop</param.output>
+    <param.guid>52e3793a-721c-40cd-93a4-f912f93d72c6</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\reading.m</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\@map\map.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsConstructor.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsDir.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsLookupTable.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsNameExtract.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsNameGen.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools\dsRootPath.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util\allEmpty.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util\fileLineCount.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util\freadLine2Line.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util\isWildcard.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util\numberMapper.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\countEachLabel.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\datastore.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\delete.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\fetch.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\find.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\grinder.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\hasdata.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\plot.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\plus.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\progress.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\progressBar.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\propertiesFetch.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\read.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\readall.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\readNextItem.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\reset.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\sequenceDatastore.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\shuffle.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\slicer.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\splitEachLabel.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\summon.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\test.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading\transform.m</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+DStools</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+GGen</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+labeller</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+machining</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+ml</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+tools</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\+util</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\.gitignore</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@gcode</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\@reading</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\emtpyFun.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\IntelMachin.prj</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\intelMachine</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\LICENSE</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\QuickTestUnit.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\resources</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\sequenceDatastore.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\simpleDS.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\simpleDS2.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\toBeDeleted.m</file>
+      <file>C:\Users\mhoss\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\intelMachine\tool.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\mhoss" name="Desktop" optional="false">C:\Users\mhoss\Desktop</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2020b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
